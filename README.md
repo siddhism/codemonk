@@ -1,8 +1,9 @@
 # codemonk
-My solutions to problems of codemonk series by hackerearth [codemonk](https://www.hackerearth.com/codemonk/)
+##My solutions of hackerearth's [codemonk](https://www.hackerearth.com/codemonk/) series problems.
+####Learning algorithms.
 ---
 
-Solutions included for topics:
+###Solutions included for topics:
 1. Greedy Algorithms
 2. Heaps and priority Queue
 3. Minimum spanning Tree
